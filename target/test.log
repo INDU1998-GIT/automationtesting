@@ -1,0 +1,74 @@
+2021-03-22 20:58:49,456 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-22 20:58:49,527 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-22 20:58:53,171 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-22 20:58:55,491 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-22 20:58:55,727 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-22 20:59:06,398 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-22 21:19:45,792 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-22 21:19:45,879 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-22 21:19:49,608 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-22 21:19:53,589 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-22 21:19:53,978 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-22 21:20:04,598 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-22 22:44:53,085 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-22 22:44:53,167 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-22 22:44:57,453 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-22 22:45:00,831 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-22 22:45:01,211 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-22 22:45:12,556 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-23 10:02:22,377 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 10:02:22,464 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 10:02:26,299 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-23 10:02:28,931 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-23 10:02:29,395 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-23 10:02:40,292 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-23 13:26:59,302 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 13:26:59,432 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 13:27:03,612 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-23 13:27:07,480 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-23 13:27:07,927 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-23 13:27:18,914 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-23 13:28:57,863 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 13:28:57,966 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 13:29:49,906 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 13:29:50,026 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 13:30:24,681 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 13:30:24,802 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 13:30:28,782 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-23 13:30:31,649 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-23 13:30:32,002 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-23 13:30:42,997 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-23 13:46:20,977 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-23 13:46:21,149 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-23 13:46:26,102 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-23 13:46:30,033 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-23 13:46:30,927 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-23 13:46:42,042 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-29 16:09:36,965 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-03-29 16:09:37,082 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-03-29 16:09:40,568 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-03-29 16:09:43,156 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-03-29 16:09:43,448 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-03-29 16:09:53,473 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-03-29 17:06:30,557 INFO c.v.r.t.t.FrameWork [main] set up method called
+2021-03-29 17:06:32,861 INFO c.v.r.t.t.FrameWork [main] Test method startted
+2021-03-29 17:06:34,028 INFO c.v.r.t.t.FrameWork [main] opened url
+2021-03-29 17:06:45,984 INFO c.v.r.t.t.FrameWork [main] Test Stopped
+2021-03-29 17:06:45,986 INFO c.v.r.t.t.FrameWork [main] Test method startted
+2021-03-29 17:06:47,182 INFO c.v.r.t.t.FrameWork [main] opened url
+2021-03-29 17:06:58,779 INFO c.v.r.t.t.FrameWork [main] Test Stopped
+2021-03-29 17:06:58,781 INFO c.v.r.t.t.FrameWork [main] Test method startted
+2021-03-29 17:06:59,898 INFO c.v.r.t.t.FrameWork [main] opened url
+2021-03-29 17:07:11,717 INFO c.v.r.t.t.FrameWork [main] Test Stopped
+2021-04-02 15:34:49,008 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-04-02 15:34:49,162 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-04-02 15:34:52,056 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-04-02 15:34:54,784 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-04-02 15:34:55,101 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-04-02 15:35:06,068 INFO c.v.r.t.p.SmokeTest [main] Test completed
+2021-04-09 17:42:38,588 INFO c.v.r.t.p.SmokeTest [main] setup method called
+2021-04-09 17:42:38,733 INFO c.v.r.t.p.SmokeTest [main] clicked on mobiles in homepage
+2021-04-09 17:42:42,444 INFO c.v.r.t.p.SmokeTest [main] selected filter in Mobile search Page 
+2021-04-09 17:42:46,448 INFO c.v.r.t.p.SmokeTest [main] selected Item in Filters Result Page
+2021-04-09 17:42:46,864 INFO c.v.r.t.p.SmokeTest [main] Item added to cart in Product Details Page
+2021-04-09 17:42:59,247 INFO c.v.r.t.p.SmokeTest [main] Test completed

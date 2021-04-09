@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke" duration-ms="30820" started-at="2021-04-09T17:42:29 IST" finished-at="2021-04-09T17:43:00 IST">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="30820" started-at="2021-04-09T17:42:29 IST" finished-at="2021-04-09T17:43:00 IST">
+      <class name="com.valuemomentum.retail.testautomation.pages.SmokeTest">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.valuemomentum.retail.testautomation.pages.SmokeTest@78123e82]" name="createDriver" is-config="true" duration-ms="9066" started-at="2021-04-09T17:42:29 IST" finished-at="2021-04-09T17:42:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.valuemomentum.retail.testautomation.pages.SmokeTest@78123e82]" name="setup" is-config="true" duration-ms="87" started-at="2021-04-09T17:42:38 IST" finished-at="2021-04-09T17:42:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyProductPurchase()[pri:1, instance:com.valuemomentum.retail.testautomation.pages.SmokeTest@78123e82]" name="verifyProductPurchase" duration-ms="20537" started-at="2021-04-09T17:42:38 IST" finished-at="2021-04-09T17:42:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductPurchase -->
+        <test-method status="PASS" signature="test_aftersuite()[pri:0, instance:com.valuemomentum.retail.testautomation.pages.SmokeTest@78123e82]" name="test_aftersuite" is-config="true" duration-ms="971" started-at="2021-04-09T17:42:59 IST" finished-at="2021-04-09T17:43:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_aftersuite -->
+      </class> <!-- com.valuemomentum.retail.testautomation.pages.SmokeTest -->
+    </test> <!-- Tests -->
+  </suite> <!-- Smoke -->
+</testng-results>
